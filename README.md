@@ -5,6 +5,7 @@ Office Management System (OMS)- to be developed as a product
 Copyright: 
 	Copyright stays with the developing team.
 
+## THIS IS A BRANCH OF THE MASTER BRANCH- LOGIN MODULE
 	
 The software Office Management Systems objective is to provide a system which manages the office 
 activities using a computer within a fraction of seconds. The software stores all the important data’s like 
