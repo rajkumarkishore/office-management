@@ -58,3 +58,8 @@ Reports: The Admin has a special feature of viewing periodic reports like the nu
  number of tasks completed, salary report etc.
 
 Logout: This module allows the user to Logout the application. Further operations cannot be performed after user exits.
+
+## THIS IS A BRANCH OF THE MASTER - AUTHENTICATION MODULE
+
+This branch has been created to develop the authentication module of OMS.
+	
