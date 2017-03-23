@@ -1,6 +1,5 @@
 # office-management
 Office Management System (OMS)- to be developed as a product
-
 Author: Kishore Rajkumar
 ############################################################################################
 Copyright: 
