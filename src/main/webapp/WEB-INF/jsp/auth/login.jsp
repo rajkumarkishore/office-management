@@ -1,3 +1,4 @@
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <!DOCTYPE>
 <html>
 <head>
@@ -5,7 +6,7 @@
 <title>OMS</title>
 </head>
 <body>
-	<form name="authentication" action="login" method="post">
+	<form name="authentication" action="/login" method="post">
 		<table>
 			<tr>
 				<td>User Name</td>
@@ -21,6 +22,9 @@
 				<td colspan="3"><input type="submit" value="login" /></td>
 			</tr>
 		</table>
+		<c:if test="${error == true }">
+			<div>Login failed. Bad Credentials!</div>
+		</c:if>
 	</form>
 </body>
 </html>
